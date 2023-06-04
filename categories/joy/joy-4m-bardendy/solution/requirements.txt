@@ -1,0 +1,4 @@
+Pillow==9.5.0
+pwntools==4.9.0
+pyzbar==0.1.9
+tqdm==4.65.0
