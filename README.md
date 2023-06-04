@@ -57,6 +57,6 @@
 #### Web
 
 - [Заметки доктора Эггмана](categories/web/web-1e-xxs-httponly/solution/writeup.md)
-- [Система отслеживания секретов](categories/web/web-2-ssrf-inj/solution/writeup.md)
+- [Система отслеживания секретов](categories/web/web-2m-ssrf-inj/solution/writeup.md)
 - [Lottieditor](categories/web/web-3m-lottieditor/solution/writeup.md)
 - [Хеликоптер](categories/web/web-4h-helicopter/solution/writeup.md)
