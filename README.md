@@ -34,7 +34,6 @@
 
 - [Вне закона](categories/osint/osi-1m-Vne_zakona/solution/writeup.md)
 - [Новые разработки](categories/osint/osi-2m-Novie-raz/solution/writeup.md)
-- [Утерянный Денди](categories/osint/osi-3e-GameFinder/solution/writeup.md)
 - [XakerGirl 2.0](categories/osint/osi-4h-XakerGirl2.0/solution/writeup.md)
 
 
